@@ -18,7 +18,8 @@ Temporal Model: LSTM
 
 # Long Short-Term Memory (LSTM) networks are used to process time-series data, capturing temporal dynamics and trends over time.
 Purpose: LSTM networks track changes in mental health indicators, allowing the model to understand how a student's mental state evolves.
-Fusion with Attention Mechanism
+
+## Fusion with Attention Mechanism
 
 # An attention mechanism is integrated into the model to selectively focus on significant features from each data modality while reducing noise. This improves the model's predictive accuracy by emphasizing relevant portions of the data.
 Robust Evaluation
